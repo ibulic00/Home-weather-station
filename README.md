@@ -1,4 +1,4 @@
-# Home-weather-station-
+# Home-weather-station
 Home weather station which sends measurement results to WhatsApp users
 
 We used Bme 280 to read the values of temperature and air humidity
